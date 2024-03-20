@@ -1,12 +1,7 @@
-> Note: this is an example contributing guide that you or your organization might review, edit, and adopt.
-> 
-> Read more about contribution guidelines here:
-> - https://docs.github.com/en/github/building-a-strong-community/setting-guidelines-for-repository-contributors
-
 ## Contributing
 
-[fork]: https://github.com/github/github-developer/javascript-action/fork
-[pr]: https://github.com/github/github-developer/javascript-action/compare
+[fork]: https://github.com/github/hfvmarques/drafter/fork
+[pr]: https://github.com/github/hfvmarques/drafter/compare
 [style]: https://github.com/styleguide/ruby
 [code-of-conduct]: CODE_OF_CONDUCT.md
 
@@ -19,12 +14,12 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 ## Submitting a pull request
 
 0. [Fork][fork] and clone the repository
-0. Configure and install the dependencies: `npm i`
-0. Make sure the tests pass on your machine: `npm test`
-0. Create a new branch: `git checkout -b my-branch-name`
-0. Make your change, add tests, and make sure the tests still pass
-0. Push to your fork and [submit a pull request][pr]
-0. Pat your self on the back and wait for your pull request to be reviewed and merged.
+1. Configure and install the dependencies: `npm i`
+2. Make sure the tests pass on your machine: `npm test`
+3. Create a new branch: `git checkout -b my-branch-name`
+4. Make your change, add tests, and make sure the tests still pass
+5. Push to your fork and [submit a pull request][pr]
+6. Pat your self on the back and wait for your pull request to be reviewed and merged.
 
 Here are a few things you can do that will increase the likelihood of your pull request being accepted:
 
